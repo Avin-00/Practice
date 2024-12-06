@@ -1,0 +1,20 @@
+GitHub
+----------
+- Cloud based storage platform for storing the code.
+- it allows all the developers work together from any where in the world
+- code hosting is also possible
+- it allows, version control 
+
+
+- github. bit bucket. git lab are commonly used storage platform
+- git is the language used to perform operations on github, gitlab, or bitbucket
+
+
+
+Git operations
+==============
+
+1) clone - Downloading entire code from remote repo to local repo 
+2) push - uploading only changed file to remote repo from local repo 
+3) pull - downloading only changes from remote repo to local repo
+   
